@@ -1,0 +1,4 @@
+2022-04-20 01:21:07.891  WARN 8628 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=6h57m43s152ms753µs700ns).
+2022-04-20 15:12:21.077  WARN 8628 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=13h25m12s19ms323µs900ns).
+2022-04-20 15:15:58.253  WARN 8628 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m16s155ms489µs900ns).
+2022-04-20 16:35:56.260  WARN 8628 --- [http-nio-8080-exec-6] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
